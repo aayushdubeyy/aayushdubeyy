@@ -12,7 +12,7 @@
 </h2>
 <h3 align="center">A passionate Frontend Developer, Software Engineer and Machine Learning enthusiast.</h3>
 
-<img align="right" alt="coding" width="480" src="https://www.lambdatest.com/resources/images/news24.gif"/>
+<img align="right" alt="coding" width="430" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushdubeyy&label=Profile%20views&color=0e75b6&style=flat" alt="aayushdubeyy" /> </p>
 
