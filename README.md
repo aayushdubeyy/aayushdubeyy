@@ -53,10 +53,10 @@
 
 <div style="display: flex; justify-content: center;">
   
-<p><img align="left" height="195" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushdubeyy&show_icons=true&locale=en&layout=compact" alt="aayushdubeyy" /></p>
+<p><img align="left" height="195" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushdubeyy&show_icons=true&locale=en&layout=compact" alt="aayushdubeyy" /></p>
 
 
-<p>&nbsp;<img align="right" height="195" width="350" src="https://github-readme-stats.vercel.app/api?username=aayushdubeyy&show_icons=true&locale=en" alt="aayushdubeyy" /></p>
+<p>&nbsp;<img align="right" height="195" width="400" src="https://github-readme-stats.vercel.app/api?username=aayushdubeyy&show_icons=true&locale=en" alt="aayushdubeyy" /></p>
 
 </div>
 <br>
