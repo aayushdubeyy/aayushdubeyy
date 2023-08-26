@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aayush Dubey</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Aayush+Dubey+;Welcome+to+my+github+profile!!;Thanks+for+Visiting+(◑‿◐))](https://git.io/typing-svg)
+  
+</div>
+
+
+<h2 align="center">
+  
+  More Projects are always on the way, your presence is appreciated! :)
+
+</h2>
 <h3 align="center">A passionate Frontend Developer, Software Engineer and Machine Learning enthusiast.</h3>
 
 <img align="right" alt="coding" width="480" src="https://www.lambdatest.com/resources/images/news24.gif"/>
