@@ -10,7 +10,7 @@
   More Projects are always on the way, your presence is appreciated! :)
 
 </h2>
-<h3 align="center">A passionate Frontend Developer, Software Engineer and Machine Learning enthusiast.</h3>
+<h3 align="center">A passionate Full Stacked Web Developer, Software Engineer and Machine Learning enthusiast.</h3>
 
 <img align="right" alt="coding" width="430" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
