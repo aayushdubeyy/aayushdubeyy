@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushdubeyy&label=Profile%20views&color=0e75b6&style=flat" alt="aayushdubeyy" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **aayushdubey040@gmail.com**
 
